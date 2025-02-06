@@ -317,25 +317,18 @@ Data security and privacy are critical for protecting **sensitive real estate da
 
 **Key Components of Data Security & Privacy**
 
-![A screenshot of a computer
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfs-Vz6P2RWE7Ngx0Ctb5ss5jyP9GB8FBGTm07SDzQNJtoyR6xnGggrImbXgyQoywIZgbEhD_90evaQV-_xPi3bZ9CsdHQHkWkVdqKrWHZzcW_HpWE10qv1klxAiA8XyhBE9pIWlw?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-8.png?raw=true "picture-8")**
 
 Table 8. Key Components of Data Security & Privacy
 
-\
 
 
 **AWS Services for Data Security & Privacy**
 
-![A screenshot of a computer
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXejEBJ6Y0o_8FRDapAWxxWtbMtatpev1JDHrLQSPT6WPDoXn7ph9scyi_yDGwI2Lsgi6NGdJ7pFzQRHuAHZ2Ugf3cl1dfI3-hD1Ihpa14G9OveEmo28m7tHcq4T2dxpBYKWSgal?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-9.png?raw=true "picture-9")**
 
 Table 9. AWS Services for Data Security & Privacy
 
-\
-\
 
 
 **Data Security Best Practices for Real Estate Business**
@@ -368,7 +361,7 @@ Table 9. AWS Services for Data Security & Privacy
 
 - Share property and financial data securely via **AWS Data Exchange**.
 
-\
+
 
 
 **Example Real Estate Security Use Case**
@@ -384,66 +377,41 @@ Table 9. AWS Services for Data Security & Privacy
 
 4. **Monitor access logs** with AWS CloudTrail for auditing.
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 
 
 **5. Analytics & Business Intelligence (BI)**
 
 Analytics and BI are essential for data-driven decision-making in the real estate business. By leveraging real-time insights, predictive analytics, and AI-driven recommendations, real estate companies can optimize operations, increase sales, and improve customer experience. The **benefits of Real Estate Analytics & BI can be 1) Increases Sales & Revenue** you can implement a Data-driven pricing and customer insights improve conversions. 2) **Optimizes Marketing Strategies** by using AI to power recommendations improve targeting. 3) **Enhances Customer Experience** use data to provide Personalized property suggestions increase engagement.4) **Improves Operational Efficiency** use AI Predictive maintenance reduces costs. 5) **Reduces Fraud & Risk** take action faster with AI-driven fraud detection enhances security.
 
-\
 
-
-![A diagram of data storage
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9OrSBzlV1nH4TK81N0dLh0Kb13NfHwQNU61tr-n3wsEALZ8NnP7qTvMbUTqtoN0iq1SsaHzMzTr2yjXAI1PXg0leMVycMJdwfHTE4GrGSBJ19UkWzEKZbdO19VqnVsKqCV4I6?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-10.png?raw=true "picture-10")**
 
 Picture 10. Analytics & Business Intelligence (BI)
 
-\
 
 
 **Key Use Cases of Analytics & BI in Real Estate**
 
-****![A white table with black text
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6rBnLt1NCFnkgpIE4qNbZ31WKvurfpgU-OtU2RYDoAnfLxRa0T13rroqJDMc98YwL9XZ2_fs8oz6DLXVhC-UvOQRLkfa5ao05QvaoSOspCOIBB2R1VKsD61Jsa6UmZ2sBdlkABg?key=xNvYjc2fzg8cD1s38UrxiXfg)****
+**![Alt text](Pictures/picture-11.png?raw=true "picture-11")**
 
 Table 11. Key Use Cases of Analytics & BI in Real Estate
 
-\
-\
 
 
 **6. AI/ML & Advanced Analytics**
 
 AI and Machine Learning (ML) enable real estate businesses to move beyond traditional reporting and leverage data for predictive and prescriptive analytics. These technologies help automate processes, improve decision-making, and create new business opportunities. The benefit of using AI/ML includes 1) **Automates Repetitive Tasks** to reduces manual effort in pricing, fraud detection, and document processing. 2) **Enhances Customer Experience** with AI-driven recommendations improve property searches. 3) **Optimizes Investments** use Data-driven decision-making for property buying, selling, and renting. 4) **Reduces Operational Costs** by create a model predictive maintenance lowers expenses. 5) **Increases Security & Compliance** use AI to detects fraud and ensures regulatory adherence.
 
-\
+
 
 
 **Key AI/ML Use Cases in Real Estate**
 
-![A table with text on it
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQrbRqf4kxCuIIo6RYw3m4qZsxeRpDAM-WLi8mY4gr5WDvzY02gSFNKe3GvuHODqE-lUINUT1W4a49zSUDaVpTj3mOtyXOpZ11zRegaIuo5w2Gv-0vjwJ8TtTk_ZBXppUqxtuEng?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-12.png?raw=true "picture-12")**
 
 Table 12. Key AI/ML Use Cases in Real Estate
 
-\
+
 
 
 **AI/ML Workflow**
@@ -472,8 +440,7 @@ Table 12. Key AI/ML Use Cases in Real Estate
 
 - Automate alerts and recommendations via **Amazon SNS (Notifications)**.
 
-\
-\
+
 
 
 **Example: AI/ML for Property Price Prediction**
@@ -502,8 +469,6 @@ A real estate company wants to predict the best-selling price of properties base
 
 - Integrate predictions into a **BI dashboard (Amazon QuickSight, Tableau)**.
 
-\
-\
 
 
 **7. Data Monetization & Sharing**
@@ -552,17 +517,13 @@ A strategic approach to **monetizing and sharing data** can **unlock hidden valu
 
 - **Ethical use of information** to prevent misuse
 
-\
-\
-\
 
 
 **8. Implementation Roadmap**
 
 The roadmap helps you **strategically implement, modernize, and share data** while ensuring security, compliance, and long-term scalability. Here’s a structured Implementation Roadmap for a Data Strategy in Real Estate, covering Data Monetization & Sharing and broader data-driven initiatives:
 
-\
-\
+
 
 
 |                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -597,9 +558,9 @@ The roadmap helps you **strategically implement, modernize, and share data** whi
 
 * Scale data initiatives to **new markets, properties, and customer segments**.                                                                                                                                                                                                                                                                                                                   |
 
+**![Alt text](Pictures/picture-13.png?raw=true "picture-13")**
 Table 13. Data Strategy Implementation Roadmap
 
-\
 
 
 **Summary**
@@ -616,12 +577,10 @@ In today’s digital-first market, a **robust data strategy provides a competiti
 
 - **Enable Self-Service Analytics:** Empower teams with BI tools (AWS QuickSight, Power BI).
 
-\
-\
 
 
 Thank you for your time to read my document.
 
-Ponrawat
+**Ponrawat Chirajakwattana**
 
 ppee111\@hotmail.com
