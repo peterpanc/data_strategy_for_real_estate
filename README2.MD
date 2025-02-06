@@ -160,9 +160,8 @@ A well-designed data pipeline should support **real-time** and **batch processin
 - **3. Data Storage & Warehousing**
 
 **![Alt text](Pictures/picture-2.png?raw=true "picture-2")**
-
 <p align="center">
-<h4 align="center" style="margin-top: 0px;">Table 2. Data Storage & Warehousing</h4>
+<h5 align="center" style="margin-top: 0px;">Table 2. Data Storage & Warehousing</h5>
 </p>
 
 
@@ -187,9 +186,8 @@ Here's a **modern data architecture for a real estate business** that supports d
 
 
 **![Alt text](Pictures/picture-3.jpg?raw=true "picture-3")**
-
 <p align="center">
-<h4 align="center" style="margin-top: 0px;">Picture 3. modern data architecture</h4>
+<h5 align="center" style="margin-top: 0px;">Picture 3. modern data architecture</h5>
 </p>
 
 
@@ -277,8 +275,10 @@ Data quality is about ensuring **clean, accurate, and complete data** for analyt
 
 
 **![Alt text](Pictures/picture-4.jpg?raw=true "picture-4")**
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Picture 4. Data Governance</h5>
+</p>
 
-Picture 4. Data Governance
 
 
 **Data Governance Pillars**
@@ -286,27 +286,26 @@ Picture 4. Data Governance
 These pillars define the key areas of governance to ensure structured data management.
 
 **![Alt text](Pictures/picture-5.png?raw=true "picture-5")**
-
-Table.5 Data Governance Pillars
-
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Table.5 Data Governance Pillars</h5>
+</p>
 
 
 
 **Data Governance Roles & Responsibilities**
 
 **![Alt text](Pictures/picture-6.png?raw=true "picture-6")**
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Table.6 Data Governance Roles & Responsibilities</h5>
+</p>
 
-Table.6 Data Governance Roles & Responsibilities
 
 
 **Data Governance Policies & Standards**
 
 - **Data Classification Policy:** Categorize data (Public, Internal, Confidential) and apply security controls accordingly.
-
 - **Data Retention Policy:** Define how long data should be stored (e.g., retain sales data for 7 years, customer records for 5 years).
-
 - **Data Access & Security Policy:** Enforce **least privilege access** using AWS IAM, Lake Formation, and encryption (AWS KMS).
-
 - **Data Quality Standards:** Define validation rules (e.g., price must be numeric, addresses must be complete, no duplicate customer IDs).
 
 
@@ -314,8 +313,9 @@ Table.6 Data Governance Roles & Responsibilities
 **Data Governance Tools & Technologies in AWS**
 
 **![Alt text](Pictures/picture-7.png?raw=true "picture-7")**
-
-Table 7. Data Governance Tools & Technologies in AWS
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Table 7. Data Governance Tools & Technologies in AWS</h5>
+</p>
 
 
 
