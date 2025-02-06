@@ -80,12 +80,11 @@ Below are key objectives and practical examples of how data can drive value in r
 
 **Use Case Breakdown by Data Type**
 
-<p align="center">
+
 **![Alt text](Pictures/picture-1.png?raw=true "picture-1")**
-</p>
 
 <p align="center">
-Table1. Use Case Breakdown by Data Type 
+<h1 align="center" style="margin-top: 0px;">Table1. Use Case Breakdown by Data Type</h1>
 </p>
 
 
