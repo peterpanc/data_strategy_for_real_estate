@@ -544,7 +544,8 @@ The roadmap helps you **strategically implement, modernize, and share data** whi
 | Phase 2: Data Infrastructure & Technology Setup          | **4. Invest in a Scalable Data Architecture*** Choose a **cloud-based** data platform (AWS, Azure, Google Cloud).
 * Implement **data lakes/data warehouses** to centralize real estate data.
 **5. Data Collection & Integration*** **Automate data pipelines** to aggregate information from multiple sources (property listings, sales records, customer interactions).
-* Implement APIs for **data sharing with partners** (banks, insurance, urban planners).**6. Data Quality & Security Implementation*** Deploy **data cleaning, validation, and deduplication** processes.
+* Implement APIs for **data sharing with partners** (banks, insurance, urban planners).
+**6. Data Quality & Security Implementation*** Deploy **data cleaning, validation, and deduplication** processes.
 
 * Use **encryption, role-based access, and anonymization** to protect sensitive data. |
 | Phase 3: Data Monetization & Sharing Strategy            | **7. Define Monetization Models*** **Direct Monetization:** Selling aggregated data insights to banks, investors, and insurers.
