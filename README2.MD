@@ -84,7 +84,13 @@ Below are key objectives and practical examples of how data can drive value in r
 **![Alt text](Pictures/picture-1.png?raw=true "picture-1")**
 
 <p align="center">
-<h1 align="center" style="margin-top: 0px;">Table1. Use Case Breakdown by Data Type</h1>
+<h2 align="center" style="margin-top: 0px;">Table1. Use Case Breakdown by Data Type</h2>
+</p>
+<p align="center">
+<h3 align="center" style="margin-top: 0px;">Table1. Use Case Breakdown by Data Type</h3>
+</p>
+<p align="center">
+<h4 align="center" style="margin-top: 0px;">Table1. Use Case Breakdown by Data Type</h4>
 </p>
 
 
