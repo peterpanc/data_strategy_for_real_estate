@@ -84,12 +84,6 @@ Below are key objectives and practical examples of how data can drive value in r
 **![Alt text](Pictures/picture-1.png?raw=true "picture-1")**
 
 <p align="center">
-<h2 align="center" style="margin-top: 0px;">Table1. Use Case Breakdown by Data Type</h2>
-</p>
-<p align="center">
-<h3 align="center" style="margin-top: 0px;">Table1. Use Case Breakdown by Data Type</h3>
-</p>
-<p align="center">
 <h4 align="center" style="margin-top: 0px;">Table1. Use Case Breakdown by Data Type</h4>
 </p>
 
@@ -168,7 +162,10 @@ A well-designed data pipeline should support **real-time** and **batch processin
 
 **![Alt text](Pictures/picture-2.png?raw=true "picture-2")**
 
-Table 2. Data Storage & Warehousing
+<p align="center">
+<h4 align="center" style="margin-top: 0px;">Table 2. Data Storage & Warehousing</h4>
+</p>
+
 
 
 - **4. Data Integration & Transformation**
@@ -192,7 +189,10 @@ Here's a **modern data architecture for a real estate business** that supports d
 
 **![Alt text](Pictures/picture-3.jpg?raw=true "picture-3")**
 
-Picture 3. modern data architecture
+<p align="center">
+<h4 align="center" style="margin-top: 0px;">Picture 3. modern data architecture</h4>
+</p>
+
 
 
 
