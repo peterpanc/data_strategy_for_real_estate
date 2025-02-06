@@ -179,7 +179,7 @@ Table 2. Data Storage & Warehousing
 Here's a **modern data architecture for a real estate business** that supports data-driven decision-making, AI/ML, and business intelligence while ensuring scalability, security, and governance.
 
 
-**![Alt text](Pictures/picture-3.png?raw=true "picture-3")**
+**![Alt text](Pictures/picture-3.jpg?raw=true "picture-3")**
 
 Picture 3. modern data architecture
 
@@ -266,7 +266,7 @@ Data quality is about ensuring **clean, accurate, and complete data** for analyt
 - **Efficient Data Sharing** – Enables secure data sharing with real estate partners & third-party providers.
 
 
-**![Alt text](Pictures/picture-4.png?raw=true "picture-4")**
+**![Alt text](Pictures/picture-4.jpg?raw=true "picture-4")**
 
 Picture 4. Data Governance
 
@@ -284,13 +284,9 @@ Table.5 Data Governance Pillars
 
 **Data Governance Roles & Responsibilities**
 
-![A screenshot of a computer
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOPoaEhglV0MeLhrj66ZekKaBxXoykgwzhr6riwpivJKNJTXuwuRse0KY1JuLTWeUQdEl4fDUuSyhJ-A00Ebvt2cVECHvze9D-v5qjr6sgMwKEqnfLpwFaZOtC0jkAN39YrbAX?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-6.png?raw=true "picture-6")**
 
 Table.6 Data Governance Roles & Responsibilities
-
-\
 
 
 **Data Governance Policies & Standards**
@@ -303,27 +299,20 @@ Table.6 Data Governance Roles & Responsibilities
 
 - **Data Quality Standards:** Define validation rules (e.g., price must be numeric, addresses must be complete, no duplicate customer IDs).
 
-\
-\
 
 
 **Data Governance Tools & Technologies in AWS**
 
-![A screenshot of a service
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9XcUMnXVXWwTWe0JdHCmT2vMpPod2gEiJ---CuP_58b88iUAJeVTQmgf9MQ5iFyLgrrmFjCGCuKRTJ82RgDfZN1oVDlwxgvgGNNK2xp2dvaXd3tzI-hO0URpWDX9Am2qstonLtQ?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-7.png?raw=true "picture-7")**
 
 Table 7. Data Governance Tools & Technologies in AWS
 
-\
-\
 
 
 **4. Data Security & Privacy**
 
 Data security and privacy are critical for protecting **sensitive real estate data**, such as customer details, financial transactions, property listings, and business analytics. A well-structured security framework ensures **compliance, risk mitigation, and secure data usage** across the organization. The benefit of strong data security & privacy includes 1) **Protection Against Data Breaches** by Encrypting sensitive data reduces risks. 2) **Regulatory Compliance** Adheres to GDPR, PDPA, and CCPA. 3) **Secure Customer Transactions** use ensures privacy and trust in real estate transactions. 4) **Controlled Data Access** to prevent unauthorized access and misuse of property & financial records.
 
-\
 
 
 **Key Components of Data Security & Privacy**
