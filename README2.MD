@@ -2,13 +2,9 @@
 
 A **Data Strategy Framework** is a importance eliments for real estate businesses because it could transformaiton your orgganization to become a data-driven and it ensures that you are managing your data and process properly includes collected, managed, and used efficiently to drive revenue, operational efficiency, and customer satisfaction. Real estate companies generate vast amounts of data from property transactions, customer interactions, and market trends. Without a structured strategy, much of this data remains underutilized. A **well-defined framework** helps businesses monetize their data by selling insights to banks, investors, and developers, generating leads for mortgage lenders and home service providers, and implementing smart pricing models to optimize property sales and rentals.
 
-![Hands holding a tablet with a model of a house
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc_-pSAinn-IipvfbFxiZAKyiS5LU-PdSeyE7AY3ik6sKuKzh-Qn7366nZpsKGuHYs_Ymcmnq_D35L630kFF8CFPwdwkZnRfTu0ro5OKRCxMf_Qfj3GVt-hysW01Eq2xOwBn7r-4Q?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/Real%20Estate.png?raw=true "Real_estate")**
 
 Beyond revenue generation, a strong data strategy enhances **decision-making** by providing analytics-driven insights into market demand, pricing trends, and investment opportunities. It also plays a crucial role in **operational efficiency**, allowing businesses to automate property valuations, the businesses can personalize property recommendations based on buyer preferences, accelerate mortgage approvals using predictive credit analysis, and enhance customer engagement through automated chatbots. Additionally, data compliance and security are critical in the real estate sector, where firms handle sensitive personal and financial information. A strong data governance framework ensures compliance with regulations such as GDPR and CCPA, protects against data breaches, and implements security measures like encryption and role-based access controls. The real-time processing can streamline tenant screenings, and optimize maintenance schedules using IoT and sensor data. By integrating AI-driven tools, real estate companies can automate leasing, property management, and customer interactions, ultimately reducing costs and improving service quality.
-
-\
 
 
 **1. Business Objectives & Use Cases**
