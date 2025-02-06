@@ -398,7 +398,7 @@ Data security and privacy are critical for protecting **sensitive real estate da
 Analytics and BI are essential for data-driven decision-making in the real estate business. By leveraging real-time insights, predictive analytics, and AI-driven recommendations, real estate companies can optimize operations, increase sales, and improve customer experience. The **benefits of Real Estate Analytics & BI can be 1) Increases Sales & Revenue** you can implement a Data-driven pricing and customer insights improve conversions. 2) **Optimizes Marketing Strategies** by using AI to power recommendations improve targeting. 3) **Enhances Customer Experience** use data to provide Personalized property suggestions increase engagement.4) **Improves Operational Efficiency** use AI Predictive maintenance reduces costs. 5) **Reduces Fraud & Risk** take action faster with AI-driven fraud detection enhances security.
 
 
-**![Alt text](Pictures/picture-10.png?raw=true "picture-10")**
+**![Alt text](Pictures/picture-10.jpg?raw=true "picture-10")**
 <p align="center">
 <h5 align="center" style="margin-top: 0px;">Picture 10. Analytics & Business Intelligence (BI)</h5>
 </p>
