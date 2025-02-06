@@ -77,16 +77,11 @@ Below are key objectives and practical examples of how data can drive value in r
 
 **Use Case Breakdown by Data Type**
 
-****![A screenshot of a computer
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcrweam4ifNhT6itvhk7vb8WwgrCrW07BISRE0N2m_R-rDh-w3i1BnuqK07wmsGJwj8SPgXJ589F6FcGQoJl-AZI3Ps5OrZZRgyN43X_woxXRwqI8JbvNjEi_QC_nePJe8DJ8kPNQ?key=xNvYjc2fzg8cD1s38UrxiXfg)****
+**![Alt text](Pictures/picture-1.png?raw=true "picture-1")**
 
 Table1. Use Case Breakdown by Data Type 
 
 Pictures/picture-1.png
-
-\
-\
 
 
 **2. Data Collection & Integration**
@@ -161,9 +156,7 @@ A well-designed data pipeline should support **real-time** and **batch processin
 
 - **3. Data Storage & Warehousing**
 
-****![A screenshot of a phone
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkEkowW2wHy5Pjg4t_FavG93G3Fvp3D1QwOsH-XwYkOoOwGD3zDX4YgHyFKyz5WbrfWgSUe5vnVfe3C59Dpf_oWDyTLa0VRTwNGZTEIitPz-aqxg7mLvO6pC1R1w4gg_jx8dEnBg?key=xNvYjc2fzg8cD1s38UrxiXfg)****
+**![Alt text](Pictures/picture-2.png?raw=true "picture-2")**
 
 Table 2. Data Storage & Warehousing
 
@@ -181,18 +174,14 @@ Table 2. Data Storage & Warehousing
 
   - **API & Data Sharing:** AWS Data Exchange, APIs for partners
 
-\
 
 
 Here's a **modern data architecture for a real estate business** that supports data-driven decision-making, AI/ML, and business intelligence while ensuring scalability, security, and governance.
 
-![A diagram of a building
-
-Description automatically generated with medium confidence](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc6L_-nm8ByA-tVu8_Qx-LU990i25zi3hu1AiGCFojkSAdy_RP4gsIeEd_IYcsxRK6vLtOVJqKQO6zoUeuQNs9FxgWaPpOmti3tWvqx1mFIwBgg-tMrSImyfGVSrdbE-n-L5JExAw?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-3.png?raw=true "picture-3")**
 
 Picture 3. modern data architecture
 
-\
 
 
 **3. Data Governance & Quality**
@@ -275,9 +264,7 @@ Data quality is about ensuring **clean, accurate, and complete data** for analyt
 
 - **Efficient Data Sharing** – Enables secure data sharing with real estate partners & third-party providers.
 
-![A person standing on top of a building surrounded by buildings
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdoLM9fnpTtSFty2ryalBgVZAX_3C2bDTAoEoEC0XIq7I_j82NvE2E9twO_2uFejeiH3m7RaahOsu3v9cI3wFMR5Cy_SfR_hR7nypWthorgj2t_GqR2yJB_hw-qF6IdxCv0R_FOzw?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-4.png?raw=true "picture-4")**
 
 Picture 4. Data Governance
 
@@ -285,14 +272,11 @@ Picture 4. Data Governance
 
 These pillars define the key areas of governance to ensure structured data management.
 
-![A screenshot of a computer
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0GEy-_R99q2MOx4KCm8HrOjWDdg1wb2_07w_ycrivBBFCH5cMsjRG6qpXJVeRtIJS1NVuuVlFm9rjgNZ9f4ce6h_Hh5_WPy3Iytuld2kedtmweOS366bAAxqOXBE-dt7kalsuGw?key=xNvYjc2fzg8cD1s38UrxiXfg)
+**![Alt text](Pictures/picture-5.png?raw=true "picture-5")**
 
 Table.5 Data Governance Pillars
 
-\
-\
+
 
 
 **Data Governance Roles & Responsibilities**
