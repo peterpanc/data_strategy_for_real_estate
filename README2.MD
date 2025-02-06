@@ -550,25 +550,8 @@ The roadmap helps you **strategically implement, modernize, and share data** whi
 * Implement APIs for **data sharing with partners** (banks, insurance, urban planners).**6. Data Quality & Security Implementation*** Deploy **data cleaning, validation, and deduplication** processes.
 
 * Use **encryption, role-based access, and anonymization** to protect sensitive data. |
-| Phase 3: Data Monetization & Sharing Strategy            | **7. Define Monetization Models*** **Direct Monetization:** Selling aggregated data insights to banks, investors, and insurers.
 
-* **Indirect Monetization:** Using analytics for **pricing strategies, lead generation, and predictive modeling**.**8. Develop APIs & Data Marketplaces*** Create an **API strategy** for external access (partners, fintech, proptech).
 
-* Explore **data exchanges and marketplaces** to commercialize insights.                                                                                                                                                                                                                       |
-| Phase 4: Advanced Analytics & AI Adoption                | **9. Implement AI & Machine Learning Models*** **Property valuation models** for accurate pricing.
-
-* **Predictive analytics** for real estate market trends.
-
-* **Customer segmentation** for targeted marketing.**10. Real-Time & IoT Data Utilization*** Use IoT sensors for **smart buildings, energy efficiency, and predictive maintenance**.
-
-* Analyze foot traffic and occupancy data for commercial real estate optimization.                                                                                                                                                                                                                                   |
-| Phase 5: Performance Monitoring & Continuous Improvement | **11. Establish Data KPIs & Dashboards*** Track **ROI on data monetization efforts**.
-
-* Monitor **data usage, security, and compliance adherence**.**12. Continuous Optimization & Scaling*** Regularly refine **data models, partnerships, and sharing mechanisms**.
-
-* Scale data initiatives to **new markets, properties, and customer segments**.                                                                                                                                                                                                                                                                                                                   |
-
-**![Alt text](Pictures/picture-13.png?raw=true "picture-13")**
 <p align="center">
 <h5 align="center" style="margin-top: 0px;">Table 13. Data Strategy Implementation Roadmap</h5>
 </p>
