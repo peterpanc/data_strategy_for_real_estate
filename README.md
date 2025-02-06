@@ -4,6 +4,8 @@
 
 A **Data Strategy Framework** is a importance eliments for real estate businesses because it could transformaiton your orgganization to become a data-driven and it ensures that you are managing your data and process properly includes collected, managed, and used efficiently to drive revenue, operational efficiency, and customer satisfaction. Real estate companies generate vast amounts of data from property transactions, customer interactions, and market trends. Without a structured strategy, much of this data remains underutilized. A **well-defined framework** helps businesses monetize their data by selling insights to banks, investors, and developers, generating leads for mortgage lenders and home service providers, and implementing smart pricing models to optimize property sales and rentals.
 
+**![Alt text](Pictures/Real%20Estate.png?raw=true "Real_estate")**
+
 Beyond revenue generation, a strong data strategy enhances **decision-making** by providing analytics-driven insights into market demand, pricing trends, and investment opportunities. It also plays a crucial role in **operational efficiency**, allowing businesses to automate property valuations, the businesses can personalize property recommendations based on buyer preferences, accelerate mortgage approvals using predictive credit analysis, and enhance customer engagement through automated chatbots. Additionally, data compliance and security are critical in the real estate sector, where firms handle sensitive personal and financial information. A strong data governance framework ensures compliance with regulations such as GDPR and CCPA, protects against data breaches, and implements security measures like encryption and role-based access controls. The real-time processing can streamline tenant screenings, and optimize maintenance schedules using IoT and sensor data. By integrating AI-driven tools, real estate companies can automate leasing, property management, and customer interactions, ultimately reducing costs and improving service quality.
 
 
@@ -74,15 +76,9 @@ Below are key objectives and practical examples of how data can drive value in r
 
 **Use Case Breakdown by Data Type**
 
-(file://Pictures/Real Estate.png)
+**![Alt text](Pictures/picture-1.png?raw=true "picture-1")**
 
 Table1. Use Case Breakdown by Data Type
-
-Pictures/picture-1.png
-
-** **
-
- 
 
  
 
@@ -90,27 +86,19 @@ Pictures/picture-1.png
 
 Data collection and integration are crucial for making informed decisions in real estate. You need a centralized, scalable, and well-governed data platform to unify data from multiple sources and enable analytics.
 
- 
+  **Data Sources**
 
-·       **Data Sources**
+  **A. Internal Data Sources (First-Party Data)**
+  Data generated within the company:
+    
+  o **CRM Data** (Customer interactions, inquiries, purchase history)
+  o **Transaction & Sales Data** (Property sales, lease agreements, mortgage details)
+  o **Property Listings & Details** (Property size, features, location, pricing history)
+  o **Tenant & Landlord Information** (Lease terms, payment history, complaints)
+  o **Maintenance & Facility Management Data** (Service requests, work orders, costs)
+  o **Marketing & Campaign Data** (Website visits, email campaigns, social media engagement)
 
-**A. Internal Data Sources (First-Party Data)**
-
-Data generated within the company:
-
-o   **CRM Data** (Customer interactions, inquiries, purchase history)
-
-o   **Transaction & Sales Data** (Property sales, lease agreements, mortgage details)
-
-o   **Property Listings & Details** (Property size, features, location, pricing history)
-
-o   **Tenant & Landlord Information** (Lease terms, payment history, complaints)
-
-o   **Maintenance & Facility Management Data** (Service requests, work orders, costs)
-
-o   **Marketing & Campaign Data** (Website visits, email campaigns, social media engagement)
-
-**B. External Data Sources (Third-Party & Open Data)**
+  - **B. External Data Sources (Third-Party & Open Data)**
 
 Data from outside the organization that can provide market insights:
 
@@ -162,15 +150,11 @@ o   **2. Batch Data Processing (For Historical & Large Datasets)**
 
 o   **3. Data Storage & Warehousing**
 
-** **
 
-**![A screenshot of a phone
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)**
+**![Alt text](Pictures/picture-2.png?raw=true "picture-2")**
 
 Table 2. Data Storage & Warehousing
 
-** **
 
 o   **4. Data Integration & Transformation**
 
@@ -194,9 +178,7 @@ Here's a **modern data architecture for a real estate business** that supports d
 
  
 
-![A diagram of a building
-
-Description automatically generated with medium confidence](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.jpg)
+**![Alt text](Pictures/picture-3.png?raw=true "picture-3")**
 
 Picture 3. modern data architecture
 
@@ -294,9 +276,7 @@ o   **Data Freshness & Real-Time Monitoring**
 
  
 
-![A person standing on top of a building surrounded by buildings
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)
+**![Alt text](Pictures/picture-4.png?raw=true "picture-4")**
 
 Picture 4. Data Governance
 
@@ -308,9 +288,7 @@ These pillars define the key areas of governance to ensure structured data manag
 
  
 
-![A screenshot of a computer
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)
+**![Alt text](Pictures/picture-5.png?raw=true "picture-5")**
 
 Table.5 Data Governance Pillars
 
@@ -324,9 +302,7 @@ Table.5 Data Governance Pillars
 
  
 
-![A screenshot of a computer
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)
+**![Alt text](Pictures/picture-6.png?raw=true "picture-6")**
 
 Table.6 Data Governance Roles & Responsibilities
 
@@ -349,9 +325,7 @@ Table.6 Data Governance Roles & Responsibilities
 
 **Data Governance Tools & Technologies in AWS**
 
-![A screenshot of a service
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)
+**![Alt text](Pictures/picture-7.png?raw=true "picture-7")**
 
 Table 7. Data Governance Tools & Technologies in AWS
 
@@ -373,10 +347,7 @@ Data security and privacy are critical for protecting **sensitive real estate da
 
 ** **
 
-![A screenshot of a computer
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)
-
+**![Alt text](Pictures/picture-8.png?raw=true "picture-8")**
 Table 8. Key Components of Data Security & Privacy
 
  
@@ -387,10 +358,7 @@ Table 8. Key Components of Data Security & Privacy
 
  
 
-![A screenshot of a computer
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)
-
+**![Alt text](Pictures/picture-9.png?raw=true "picture-9")**
 Table 9. AWS Services for Data Security & Privacy
 
  
@@ -449,35 +417,6 @@ Table 9. AWS Services for Data Security & Privacy
 4.          **Monitor access logs** with AWS CloudTrail for auditing.
 
  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 **5. Analytics & Business Intelligence (BI)**
 
 Analytics and BI are essential for data-driven decision-making in the real estate business. By leveraging real-time insights, predictive analytics, and AI-driven recommendations, real estate companies can optimize operations, increase sales, and improve customer experience. The **benefits of Real Estate Analytics & BI can be 1) Increases Sales & Revenue** you can implement a Data-driven pricing and customer insights improve conversions. 2) **Optimizes Marketing Strategies** by using AI to power recommendations improve targeting. 3) **Enhances Customer Experience** use data to provide Personalized property suggestions increase engagement.4) **Improves Operational Efficiency** use AI Predictive maintenance reduces costs. 5) **Reduces Fraud & Risk** take action faster with AI-driven fraud detection enhances security.
@@ -486,9 +425,7 @@ Analytics and BI are essential for data-driven decision-making in the real estat
 
  
 
-![A diagram of data storage
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.jpg)
+**![Alt text](Pictures/picture-10.png?raw=true "picture-10")**
 
 Picture 10. Analytics & Business Intelligence (BI)
 
@@ -500,9 +437,7 @@ Picture 10. Analytics & Business Intelligence (BI)
 
 ** **
 
-**![A white table with black text
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)**
+**![Alt text](Pictures/picture-11.png?raw=true "picture-11")**
 
 Table 11. Key Use Cases of Analytics & BI in Real Estate
 
@@ -524,9 +459,7 @@ AI and Machine Learning (ML) enable real estate businesses to move beyond tradit
 
  
 
-![A table with text on it
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)
+**![Alt text](Pictures/picture-12.png?raw=true "picture-12")**
 
 Table 12. Key AI/ML Use Cases in Real Estate
 
@@ -649,12 +582,6 @@ o   **Compliance with data privacy laws** (GDPR, CCPA)
 o   **Protection of sensitive customer data**
 
 o   **Ethical use of information** to prevent misuse
-
- 
-
- 
-
- 
 
  
 
