@@ -2,7 +2,13 @@
 
 A **Data Strategy Framework** is a importance eliments for real estate businesses because it could transformaiton your orgganization to become a data-driven and it ensures that you are managing your data and process properly includes collected, managed, and used efficiently to drive revenue, operational efficiency, and customer satisfaction. Real estate companies generate vast amounts of data from property transactions, customer interactions, and market trends. Without a structured strategy, much of this data remains underutilized. A **well-defined framework** helps businesses monetize their data by selling insights to banks, investors, and developers, generating leads for mortgage lenders and home service providers, and implementing smart pricing models to optimize property sales and rentals.
 
+<p align="center">
 **![Alt text](Pictures/Real%20Estate.png?raw=true "Real_estate")**
+</p>
+
+  <img src="http://some_place.com/image.png" />
+
+
 
 Beyond revenue generation, a strong data strategy enhances **decision-making** by providing analytics-driven insights into market demand, pricing trends, and investment opportunities. It also plays a crucial role in **operational efficiency**, allowing businesses to automate property valuations, the businesses can personalize property recommendations based on buyer preferences, accelerate mortgage approvals using predictive credit analysis, and enhance customer engagement through automated chatbots. Additionally, data compliance and security are critical in the real estate sector, where firms handle sensitive personal and financial information. A strong data governance framework ensures compliance with regulations such as GDPR and CCPA, protects against data breaches, and implements security measures like encryption and role-based access controls. The real-time processing can streamline tenant screenings, and optimize maintenance schedules using IoT and sensor data. By integrating AI-driven tools, real estate companies can automate leasing, property management, and customer interactions, ultimately reducing costs and improving service quality.
 
@@ -77,10 +83,13 @@ Below are key objectives and practical examples of how data can drive value in r
 
 **Use Case Breakdown by Data Type**
 
+<p align="center">
 **![Alt text](Pictures/picture-1.png?raw=true "picture-1")**
+</p>
 
+<p align="center">
 Table1. Use Case Breakdown by Data Type 
-
+</p>
 
 
 **2. Data Collection & Integration**
