@@ -74,9 +74,7 @@ Below are key objectives and practical examples of how data can drive value in r
 
 **Use Case Breakdown by Data Type**
 
-**![A screenshot of a computer
-
-Description automatically generated](file:////Users/ponrawat/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)**
+(file://Pictures/Real Estate.png)
 
 Table1. Use Case Breakdown by Data Type
 
