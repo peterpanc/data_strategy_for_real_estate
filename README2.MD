@@ -81,7 +81,6 @@ Below are key objectives and practical examples of how data can drive value in r
 
 Table1. Use Case Breakdown by Data Type 
 
-Pictures/picture-1.png
 
 
 **2. Data Collection & Integration**
@@ -160,6 +159,7 @@ A well-designed data pipeline should support **real-time** and **batch processin
 
 Table 2. Data Storage & Warehousing
 
+
 - **4. Data Integration & Transformation**
 
   - **Tools:** AWS Glue, Apache Airflow, Talend
@@ -177,6 +177,7 @@ Table 2. Data Storage & Warehousing
 
 
 Here's a **modern data architecture for a real estate business** that supports data-driven decision-making, AI/ML, and business intelligence while ensuring scalability, security, and governance.
+
 
 **![Alt text](Pictures/picture-3.png?raw=true "picture-3")**
 
@@ -264,9 +265,11 @@ Data quality is about ensuring **clean, accurate, and complete data** for analyt
 
 - **Efficient Data Sharing** – Enables secure data sharing with real estate partners & third-party providers.
 
+
 **![Alt text](Pictures/picture-4.png?raw=true "picture-4")**
 
 Picture 4. Data Governance
+
 
 **Data Governance Pillars**
 
