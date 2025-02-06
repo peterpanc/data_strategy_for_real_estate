@@ -2,7 +2,7 @@
 
 **Real Estate Data Strategy Framework by Ponrawat**
 
-A **Data Strategy Framework** is a importance eliments for real estate businesses because it could transformaiton your orgganization to become a data-driven and it ensures that you are managing your data and process properly includes collected, managed, and used efficiently to drive revenue, operational efficiency, and customer satisfaction. Real estate companies generate vast amounts of data from property transactions, customer interactions, and market trends. Without a structured strategy, much of this data remains underutilized. A **well-defined framework** helps businesses monetize their data by selling insights to banks, investors, and developers, generating leads for mortgage lenders and home service providers, and implementing smart pricing models to optimize property sales and rentals.
+A **Data Strategy Framework** is a importance eliments for real estate businesses because it could transform your orgganization to become a data-driven and it ensures that you are managing your data and process properly includes collected, managed, and used efficiently to drive revenue, operational efficiency, and customer satisfaction. Real estate companies generate vast amounts of data from property transactions, customer interactions, and market trends. Without a structured strategy, much of this data remains underutilized. A **well-defined framework** helps businesses monetize their data by selling insights to banks, investors, and developers, generating leads for mortgage lenders and home service providers, and implementing smart pricing models to optimize property sales and rentals.
 
 
 **![Alt text](Pictures/Real%20Estate.png?raw=true "Real_estate")**
