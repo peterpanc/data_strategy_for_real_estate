@@ -328,16 +328,20 @@ Data security and privacy are critical for protecting **sensitive real estate da
 **Key Components of Data Security & Privacy**
 
 **![Alt text](Pictures/picture-8.png?raw=true "picture-8")**
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Table 8. Key Components of Data Security & Privacy</h5>
+</p>
 
-Table 8. Key Components of Data Security & Privacy
 
 
 
 **AWS Services for Data Security & Privacy**
 
 **![Alt text](Pictures/picture-9.png?raw=true "picture-9")**
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Table 9. AWS Services for Data Security & Privacy</h5>
+</p>
 
-Table 9. AWS Services for Data Security & Privacy
 
 
 
@@ -395,16 +399,18 @@ Analytics and BI are essential for data-driven decision-making in the real estat
 
 
 **![Alt text](Pictures/picture-10.png?raw=true "picture-10")**
-
-Picture 10. Analytics & Business Intelligence (BI)
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Picture 10. Analytics & Business Intelligence (BI)</h5>
+</p>
 
 
 
 **Key Use Cases of Analytics & BI in Real Estate**
 
 **![Alt text](Pictures/picture-11.png?raw=true "picture-11")**
-
-Table 11. Key Use Cases of Analytics & BI in Real Estate
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Table 11. Key Use Cases of Analytics & BI in Real Estate</h5>
+</p>
 
 
 
@@ -418,9 +424,9 @@ AI and Machine Learning (ML) enable real estate businesses to move beyond tradit
 **Key AI/ML Use Cases in Real Estate**
 
 **![Alt text](Pictures/picture-12.png?raw=true "picture-12")**
-
-Table 12. Key AI/ML Use Cases in Real Estate
-
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Table 12. Key AI/ML Use Cases in Real Estate</h5>
+</p>
 
 
 
@@ -488,19 +494,13 @@ A strategic approach to **monetizing and sharing data** can **unlock hidden valu
 - **Unlocks New Revenue Streams** in the Real estate companies collect vast amounts of data—property listings, transactions, customer preferences, and market trends. Instead of just using this data internally, they can **sell insights** to banks, investors, insurance companies, and service providers, creating **an additional revenue stream**.
 
 - **Enhances Decision-Making** by sharing and monetizing data allows real estate businesses to **gain deeper market intelligence**, leading to:
-
   - More accurate property valuations
-
   - Better investment decisions
-
   - Improved risk assessment for lenders and insurers
 
 * **Strengthens Business Partnerships** by sharing data through APIs or platforms, real estate firms can collaborate with proptech companies, financial institutions, and urban planners, leading to:
-
   - **Better financing options** for buyers
-
   - **Optimized urban development** with government agencies
-
   - **Improved property services** through home maintenance and insurance providers
 
 * **Improves Customer Experience:** Data-driven insights help businesses
@@ -569,7 +569,10 @@ The roadmap helps you **strategically implement, modernize, and share data** whi
 * Scale data initiatives to **new markets, properties, and customer segments**.                                                                                                                                                                                                                                                                                                                   |
 
 **![Alt text](Pictures/picture-13.png?raw=true "picture-13")**
-Table 13. Data Strategy Implementation Roadmap
+<p align="center">
+<h5 align="center" style="margin-top: 0px;">Table 13. Data Strategy Implementation Roadmap</h5>
+</p>
+
 
 
 
